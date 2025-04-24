@@ -73,8 +73,7 @@ secure_encryption_app/
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by **Hafiz Siddiqui**  
-🔗 GitHub: [github.com/hafizsiddiqui1211](https://github.com/hafizsiddiqui1211)
+Made with ❤️ by **Hafiz Siddiqui**
 
 ---
 
